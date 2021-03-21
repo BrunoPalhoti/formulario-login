@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="cor">Cores</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="vermelho" >Vermelho</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Faminino</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="resultado">Resultado Nome e E-mail: </string>
+    <string name="ResultadoSexo">Resultado Sexo: </string>
+</resources>
